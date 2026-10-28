@@ -1,0 +1,13 @@
+User Input
+     ↓
+Data Preprocessing
+     ↓
+Label Encoding
+     ↓
+Feature Scaling
+     ↓
+Artificial Neural Network
+     ↓
+Probability
+     ↓
+Loan Approved / Not Approved

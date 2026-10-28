@@ -1,0 +1,19 @@
+
+---
+
+# 5. `.gitignore`
+
+```text
+__pycache__/
+*.pyc
+
+venv/
+.venv/
+env/
+
+.vscode/
+.idea/
+
+.env
+
+.DS_Store
